@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Olá Mundo</h1>
+        <h1>Olá mundo 2</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -16,8 +16,8 @@ function App() {
           Learn React
         </a>
       </header>
-    </div> 
-  ); 
+    </div>
+  );
 }
 
 export default App;
